@@ -1,0 +1,13 @@
+Comment Executer:
+
+	1)Créé un graphe G sagemath
+
+
+	2)Commenté les appel de fonction en bas de la page
+
+
+	3)appel de fonction >
+
+		Exo1Q1: connexite2(G)
+		Exo2Q2: edgeconnexite2(G)
+		Exo2:	orientation(G)
